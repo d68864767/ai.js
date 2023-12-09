@@ -1,0 +1,13 @@
+{
+  "name": "simplified-ai-language-model",
+  "version": "1.0.0",
+  "description": "A simplified AI language model that generates text based on an n-gram model.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
